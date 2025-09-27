@@ -39,6 +39,4 @@ Place images here:
 ## Contributing
 Issues and PRs welcome. For larger changes, open an issue first to discuss.
 
-## License
-MIT
 
